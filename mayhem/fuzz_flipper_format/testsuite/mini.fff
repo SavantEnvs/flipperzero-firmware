@@ -1,0 +1,9 @@
+Filetype: Flipper Format
+Version: 1
+# comment
+Key: 1
+Num: 1 2 3 -4
+F: 1.5 2.5
+B: true false
+Hex: DE AD BE EF
+Str: hello world
